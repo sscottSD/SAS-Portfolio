@@ -7,4 +7,6 @@
     <br></br>
     <img src = "https://raw.githubusercontent.com/sscottSD/SAS-Portfolio/main/P2%20Anova.png"></img>
   <h3>Project 3</h3>
+   <img src = "https://raw.githubusercontent.com/sscottSD/SAS-Portfolio/main/regression%20models.png"></img>
+   <img src = "https://raw.githubusercontent.com/sscottSD/SAS-Portfolio/main/parameters.png"></img>
   <br></br>
