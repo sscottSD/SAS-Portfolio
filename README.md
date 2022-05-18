@@ -5,7 +5,7 @@
   <h3>Project 1</h3>
     <a href="https://github.com/sscottSD/SAS-Portfolio/blob/main/project1.sas">Project 1 Code</a>
     <p> Project 1 
-    </p
+    </p>
    <p align = "center"><img src = "https://raw.githubusercontent.com/sscottSD/SAS-Portfolio/main/gchart12.png" alt="Pie chart of Subscribers vs. Paying Customers" width="600" align="center"></img></p>
     <br></br>
     
