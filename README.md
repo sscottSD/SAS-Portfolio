@@ -19,7 +19,9 @@
     </p.
     <br></br>
    <p align = "center"><img src = "https://raw.githubusercontent.com/sscottSD/SAS-Portfolio/main/gchart12.png" alt="Pie chart of Subscribers vs. Paying Customers" width="600" align="center"></img></p>
-    <br></br>
+    <br>
+    
+    </br>
     
   <h3>Project 2</h3>
     <br>
@@ -44,7 +46,11 @@
    all teams are about equally likely to play into overtime.
    </p> 
    <p>
-   asdfasdfas 
+    This project brought questions about how to how to count data depending on categorical variable. 
+    Player names were duplicated in this set when they were traded. In this question it did not matter how much time an individual player played,
+    only the averages for the entire team per game. In other questions we were analyzing on questions based on
+    a player's categorical data we had to clean the data and combine data for each cattegory in a way that was consistent with
+    the statistic.
    </p>
    </br>
    
