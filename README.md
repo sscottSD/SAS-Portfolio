@@ -56,6 +56,14 @@
    
   <h3>Project 3</h3>
   <a href="https://github.com/sscottSD/SAS-Portfolio/blob/main/project3.sas">Project 3 Code</a>
+  <p>
+  In the final project of the semester the goal was to experiment with retail data.
+  </p>
+  <p>
+  We analyzed sales data from a grocery store chain. 
+  In this example we constructed a model to predict sales based on correlated social and economic information using multiple 
+  linear regression methods.
+  </p>
   <p align = "center"><img src = "https://raw.githubusercontent.com/sscottSD/SAS-Portfolio/main/regression%20models.png" alt="Model Selection" width="600"></img></p>
    <p align = "center"><img src = "https://raw.githubusercontent.com/sscottSD/SAS-Portfolio/main/parameters.png" alt="Variable Analysis" width="600"></img></p>
   <br></br>
