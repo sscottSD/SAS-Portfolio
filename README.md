@@ -65,10 +65,12 @@
   linear regression methods.
   </p>
   <p align = "center"><img src = "https://raw.githubusercontent.com/sscottSD/SAS-Portfolio/main/regression%20models.png" alt="Model Selection" width="600"></img></p>
-  <p>
+ <br>
+ <p>
   We found a model with all availble variables best explains variability in sales and reduces error. 
   All variables have highly statistically signicant p-values for t-scores.
-  </p?
+  </p>
+  </br>
    <p align = "center"><img src = "https://raw.githubusercontent.com/sscottSD/SAS-Portfolio/main/parameters.png" alt="Variable Analysis" width="600"></img></p>
   <br></br>
   <p>
