@@ -4,8 +4,20 @@
 
   <h3>Project 1</h3>
     <a href="https://github.com/sscottSD/SAS-Portfolio/blob/main/project1.sas">Project 1 Code</a>
-    <p> Project 1 
+    <p>
+    Project one was challenging in adapting to the data workflows in SAS. There were some particular challenges in this project
+    with formatting and consistency of data types. This was also the largest data data set I used in the class. 
+    This was an interesting dataset to work with but it would have been better to analyze it later in the semester for these reasons. 
+    This project taught me how to better identify good quality datasets.
+    There were more tools to filter and I discovered later on that would have been useful. The SQL procedure could have been
+    helpful here to help clean the dataset.
     </p>
+    <p>
+    In this example we counted the number of strings for "subscriber" and "customer" and repressent the results graphically
+    as a pie chart. We should that the overwhealming types of riders for the Citibike service are subscribers.
+    In a large and complicated dataset we found the most consistent data type to answer provide easily digestible information.
+    </p.
+    <br></br>
    <p align = "center"><img src = "https://raw.githubusercontent.com/sscottSD/SAS-Portfolio/main/gchart12.png" alt="Pie chart of Subscribers vs. Paying Customers" width="600" align="center"></img></p>
     <br></br>
     
