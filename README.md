@@ -60,10 +60,21 @@
   In the final project of the semester the goal was to experiment with retail data.
   </p>
   <p>
-  We analyzed sales data from a grocery store chain. 
+  We analyzed sales data from a retail store chain. 
   In this example we constructed a model to predict sales based on correlated social and economic information using multiple 
   linear regression methods.
   </p>
   <p align = "center"><img src = "https://raw.githubusercontent.com/sscottSD/SAS-Portfolio/main/regression%20models.png" alt="Model Selection" width="600"></img></p>
+  <p>
+  We found a model with all availble variables best explains variability in sales and reduces error. 
+  All variables have highly statistically signicant p-values for t-scores.
+  </p?
    <p align = "center"><img src = "https://raw.githubusercontent.com/sscottSD/SAS-Portfolio/main/parameters.png" alt="Variable Analysis" width="600"></img></p>
   <br></br>
+  <p>
+  This was a low r-squared value. However it is a lesson in what is practically achievable with limited real world data. Despite limited real world
+  data we can learn to identify how much certain variables influence our model. Our variable temp2 or temperature squared 
+  is the most important aspect of our model when we normalize for store size but it has a negative coefficient. This means that people are less likely to buy food 
+  when it gets very hot. However we still have a large coefficient for temperature, so only the most extreme temperatures 
+  trigger a drop in sales.
+  </p>
