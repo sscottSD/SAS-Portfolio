@@ -21,7 +21,7 @@
    <p align = "center"><img src = "https://raw.githubusercontent.com/sscottSD/SAS-Portfolio/main/gchart12.png" alt="Pie chart of Subscribers vs. Paying Customers" width="600" align="center"></img></p>
     <br>
     
-    </br>
+   </br>
     
   <h3>Project 2</h3>
     <br>
