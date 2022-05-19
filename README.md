@@ -8,9 +8,9 @@
     Project one was challenging in adapting to the data workflows in SAS. There were some particular challenges in this project
     with formatting and consistency of data types. This was also the largest data data set I used in the class. 
     This was an interesting dataset to work with but it would have been better to analyze it later in the semester for these reasons. 
-    This project taught me how to better identify good quality datasets.
-    There were more tools to filter and I discovered later on that would have been useful. The SQL procedure could have been
-    helpful here to help clean the dataset.
+    This project taught me how to better identify good quality datasets. The SQL procedure could have been
+    helpful here to help clean the dataset had I known about it earlier. There were more tools to filter and clean data
+  I discovered later on that would have been useful to tackle this dataset.
     </p>
     <p>
     In this example we counted the number of strings for "subscriber" and "customer" and repressent the results graphically
@@ -30,14 +30,17 @@
     <p> Alpha: 5%  F-Statistic:.58 p-value:.9649 </p>
     <p> Fail to reject the null because .9648>.05 </p>
 
-There is not a significant difference in the minutes played per team.We can say that 
-all teams are about equally likely to play into overtime.
-
-This project brought questions about how to 
-    </p>
-
    </br>
    <p align = "center"><img src = "https://raw.githubusercontent.com/sscottSD/SAS-Portfolio/main/P2%20Anova.png" alt="ANOVA Test of NBA Teams vs Minutes Played" width="600"></img></p>
+   <br>
+   <p>
+   There is not a significant difference in the minutes played per team.We can say that 
+   all teams are about equally likely to play into overtime.
+   </p> 
+   <p>
+    
+    </p>
+   </br>
    
   <h3>Project 3</h3>
   <a href="https://github.com/sscottSD/SAS-Portfolio/blob/main/project3.sas">Project 3 Code</a>
