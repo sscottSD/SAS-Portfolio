@@ -24,7 +24,13 @@
   <h3>Project 2</h3>
     <br>
     <a href="https://github.com/sscottSD/SAS-Portfolio/blob/main/project2.sas">Project 2 Code</a>
-    <p> We wanted to see if there was a difference in teams overtime. To do thiswe tested if there was a significant difference in minutes played.</p>
+    <p>
+    In project 2 our group wanted to explore the field of sports statistics. To do so we found a dataset of NBA player statistics for the 
+    2021-22 Season.
+    </p>
+    <p> 
+    We wanted to see if there was a difference in teams overtime. To do thiswe tested if there was a significant difference in minutes played.
+    </p>
     <p> H0: μ1 = μ2 = μ3 =.... μk Minutes played are similar across all team. <p>
     <p> Ha: There is a signficant difference in minutes played. </p>
     <p> Alpha: 5%  F-Statistic:.58 p-value:.9649 </p>
@@ -38,8 +44,8 @@
    all teams are about equally likely to play into overtime.
    </p> 
    <p>
-    
-    </p>
+   asdfasdfas 
+   </p>
    </br>
    
   <h3>Project 3</h3>
